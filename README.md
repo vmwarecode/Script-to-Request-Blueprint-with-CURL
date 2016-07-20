@@ -1,1 +1,0 @@
-# Script-to-Request-Blueprint-with-CURL
